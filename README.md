@@ -1,6 +1,6 @@
 ### Exercise Tracker
 
-An exercise tracker API that usese MongoDB(mLab) to register users and keep track of their exercise regime. Developed as a part of freecodecamp's [API and Microservice Projects](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker). This API is not fit for practical use.
+An exercise tracker API that uses MongoDB(mLab) to register users and keep track of their exercise regime. Developed as a part of freecodecamp's [API and Microservice Projects](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker). This API is not fit for practical use.
 
 The API uses MongoDB on mLab cloud to store user and their exercise logs. Some features are : 
 - Register a user
